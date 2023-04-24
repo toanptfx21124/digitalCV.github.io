@@ -1,0 +1,30 @@
+@media (max-width: 768px) {
+  .avarta {
+    display: none;
+  }
+  .a-boder {
+    border: 0;
+  }
+  .nav-a {
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+  }
+  .nav-img {
+    display: none;
+  }
+  .certificate-detail {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+  }
+  .cer-4 {
+    border: none;
+  }
+  .pro-31 {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: start;
+  }
+}
